@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/IdeaProjects/mtori/libs/jsoup-1.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6b471012876a440ae746860d80738be2dd104655">
+        <dex dex="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.10.1_3310577219ec76452cdfeff5dc018c12a3b774dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_5b6c191f44146ecdac3350d1f9630790ddf27fc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_707017872daa78e984045a93b643085f8fc0e2c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_f60e33ed6c6b56a4b6fc3c9315ae52289fb3e384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_140ccf69dc56fea8d070e3e415d0ccba95cddf08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_815f4e025f61a43a435ec9d14a871c1291fc261d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_5dae36f21560429e9c050b985388b02da844ea16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_c906e505642f1ab98bb404304d820bb8a9a3b38a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/IdeaProjects/mtori/libs/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.5_04d879667eb8cb440f0f7cdf27489150fcddbeaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="65e91d15bf2cb8d783776355b8dd6924bded0a86">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eaba2e84958dc685c7c5a1ea92d0e5c58b060791/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_243cb0aba2eb0a45725c7aafcce7721cf6330254/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_df259b5f28c4925643d6b8b29bfa4fd6c6e1d621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_7587df889dad0ccb8ad08991395073050275e645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_6001d6d6f02dc4305aae216290510730b0d03069/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_56c1824844ee61f0a746392a23956f004fd9ac49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_5124012166dc8fce80a001bbd1b69693a888ea45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_fe7b8f700374f26fb373543aacd507f607ef9a84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="99c2f3a287e647027d9b5a393c8f06a39a3d2a51">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6393473e78bd92cd66d24cd8af5f53418943eac5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="232e5284a4e09e60f2a0071189455ef0d546cdfb">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a464b08dbeea6955f25d1a4c796ede73ef072ca5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="51273818a759284827a563f485faa4cfbf9f8386">
+        <dex dex="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_708f865c54792d2cc692b6729b35730bab8cb465/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_dd46e963b0da1f0eb4ce49142d36d88c8ec8e8de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="07a1251e30f9f68baef0ccd0a5f3b008d742361c">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4b55af7be38e0888fecbb8b26c9a2bbec318ca53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_487eb5f36f97abc636f0c597410aa3011258201c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_5130a3542ec7473a41a9ff25a171bd812b0f12a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori_v.0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_11bffbc8cbfc2473a8facaad0f577c7dcaeb4618/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_d4e049393371cf1d01e591f5a90baf1f167b9221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/tvaisanen/AndroidStudioProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_79b438d7918d0b51cd9ecc249f655e9eab8bfbc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_d6259284b8705fee1ffa30171334818f5ffe17e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_ae2fe99a0936a86e9f1d1dca2efb46be77d2f185/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8a34ab80e176e713d6bfdcc61d3fc9f69d71bd56">
+        <dex dex="/home/tvaisanen/IdeaProjects/mtori/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7622628aaf2c00c8e755784e4f415c7840b608b6/classes.dex" />
+    </item>
+
+</items>

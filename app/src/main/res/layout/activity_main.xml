@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusableInTouchMode="true" >
+
+
+<!-- MAIN UI -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="0dp"
+    tools:context="com.tori.tv.mtori.Activities.MainActivity"
+    android:background="#FFE9EFE2">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="1">
+
+                <EditText
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/searchKeyword"
+                    android:layout_weight="1.00"
+                    android:inputType="text"
+                    android:imeOptions="actionSearch"
+                    android:maxLines="1"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Etsi"
+                    android:id="@+id/search" />
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+        <TextView
+            android:text="results: "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/productCount" />
+
+        <ListView
+            android:layout_width="wrap_content"
+            android:layout_height="433dp"
+
+            android:id="@+id/productList"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="4.0sp"
+            android:paddingBottom="0dp" />
+
+    </LinearLayout>
+
+</RelativeLayout>
+
+
+<!-- DRAWABLE NAV -->
+<ExpandableListView
+    android:id="@+id/navList"
+    android:layout_width="200dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="left|start"
+    android:background="#359154"/>
+
+</android.support.v4.widget.DrawerLayout>
