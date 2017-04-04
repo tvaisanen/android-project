@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "432926480290",
+    "firebase_url": "https://soitintori-e037f.firebaseio.com",
+    "project_id": "soitintori-e037f",
+    "storage_bucket": "soitintori-e037f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432926480290:android:859c293a8a2a75c4",
+        "android_client_info": {
+          "package_name": "com.tvaisanen.soitintori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432926480290-dpjt5hu8s3pfadqnp2aljp3bdtp1hko7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tvaisanen.soitintori",
+            "certificate_hash": "DD05647114E943A3485C043D8B00F25F005D19B1"
+          }
+        },
+        {
+          "client_id": "432926480290-d3tdsnm700ru6s1qgtmfk1tk4tub265c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlaoywpJ9t55XvKvOll-Z2vF5NAl9UmGw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.tori.tv.mtori.Activities.LoginActivity">
+    tools:context="com.tvaisanen.soitintori.Activities.LoginActivity">
 
     <!-- Login progress -->
     <ProgressBar

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MTori_v.0.2</string>
+    <string name="app_name">SoitinTori</string>
     <string name="search_button">Etsi</string>
     <string name="title_activity_login">Sign in</string>
 
@@ -23,4 +23,6 @@
     <string name="action_settings">Settings</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="admobs_app_id">ca-app-pub-8722970660404042~6137307412</string>
 </resources>

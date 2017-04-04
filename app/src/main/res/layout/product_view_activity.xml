@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:weightSum="1">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/product_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/AppTheme"
+        app:popupTheme="@style/AppTheme"
+        android:minHeight="0dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="401dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp"
+        android:layout_weight="1.75">
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight=".5"
+            android:gravity="top|fill_vertical"
+            android:background="@drawable/darker_shadow"
+            android:padding="3dp">
+
+            <ImageView
+                android:id="@+id/tvThumbnail"
+                android:layout_width="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:layout_height="match_parent"
+                android:cropToPadding="true"
+                android:padding="0dp" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight=".5">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tvLocation">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/tvDescription"
+                        android:layout_width="match_parent"
+                        android:text="Description"
+                        android:layout_marginTop="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="top|center" />
+
+                </LinearLayout>
+            </ScrollView>
+
+            <TextView
+                android:id="@+id/tvType"
+                android:layout_width="200dp"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:text="Type"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_height="30dp" />
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_height="20dp"
+                android:text="Title"
+                android:inputType="textMultiLine"
+                android:layout_alignBaseline="@+id/tvType"
+                android:layout_alignBottom="@+id/tvType"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_width="220dp" />
+
+            <TextView
+
+                android:layout_width="100dp"
+                android:layout_height="20dp"
+                android:id="@+id/tvLocation"
+                android:text="LOCATION"
+                android:layout_below="@+id/tvType"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:background="@color/colorPrimary"
+        android:id="@+id/productFooter"
+        android:layout_height="40dp"
+        android:layout_weight="0.5">
+
+        <TextView
+            android:id="@+id/tvPrice"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="€"
+            android:layout_gravity="right" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary">
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="360dp"
+            android:layout_height="62dp"
+            ads:adUnitId="ca-app-pub-8722970660404042/5323918613"
+            ads:adSize="SMART_BANNER">
+        </com.google.android.gms.ads.AdView>
+
+    </FrameLayout>
+
+
+</LinearLayout>

@@ -19,7 +19,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="0dp"
-    tools:context="com.tori.tv.mtori.Activities.MainActivity"
+    tools:context="com.tvaisanen.soitintori.Activities.MainActivity"
     android:background="#FFE9EFE2">
 
     <LinearLayout
